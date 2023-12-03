@@ -37,4 +37,4 @@ In addition to these, our code is distributed under the MIT license.
 
 - [MIT](https://choosealicense.com/licenses/mit/)
 
-[InSight](https://coblaze.github.io/project_insight/)
+[InSight](https://coblaze.github.io/InSightWB/)
